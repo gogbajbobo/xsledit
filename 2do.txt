@@ -1,0 +1,6 @@
+	e is undefined
+	[Break on this error] if (e.stopPropagation) e.stopPropagation();
+in FireFox
+?????
+
+add filename in <title />

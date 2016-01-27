@@ -1,0 +1,899 @@
+<sol>
+	<div class="root"> 
+      <div class="container processing-instruction" id="id35851255"> 
+        <div class="label"> 
+          <input class="textinput" type="text" name="id35851257" value="xml-stylesheet" /> 
+        </div> 
+        <div class="value"> 
+          <input class="textinput" type="text" name="id35851259" value="href=&quot;test.css&quot; type=&quot;text/css&quot;" /> 
+        </div> 
+        <div class="controls"> 
+          <span class="delete" id="delete-id35851255">DEL</span> 
+        </div> 
+      </div> 
+      <div class="container element" id="id35851261"> 
+        <div class="label"> 
+          <input class="textinput" type="text" name="id35851264" value="xsl:stylesheet" /> 
+        </div> 
+        <div class="container attribute" id="id35851266"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851269" value="version" /> 
+          </div> 
+          <div class="value"> 
+            <input class="textinput" type="text" name="id35851271" value="1.0" /> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851266">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851274"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851277" value="xsl:output" /> 
+          </div> 
+          <div class="container attribute" id="id35851280"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851282" value="method" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851285" value="xml" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851280">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851287"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851290" value="indent" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851292" value="yes" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851287">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851294"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851297" value="doctype-public" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851299" value="-//W3C//DTD XHTML 1.0 Strict//EN" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851294">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851301"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851304" value="doctype-system" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851306" value="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851301">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851308"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851311" value="omit-xml-declaration" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851313" value="yes" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851308">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851316"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851318" value="encoding" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851321" value="utf-8" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851316">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851274">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851324"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851327" value="xsl:variable" /> 
+          </div> 
+          <div class="container attribute" id="id35851329"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851332" value="name" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851334" value="name" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851329">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851336"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851339" value="select" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851341" value="expression" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851336">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851324">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851344"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851347" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851349"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851352" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851354" value="/" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851349">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851358"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851361" value="html" /> 
+            </div> 
+            <div class="container attribute" id="id35851363"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851366" value="lang" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851368" value="rus" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851363">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851371"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851374" value="head" /> 
+              </div> 
+              <div class="container element" id="id35851377"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851380" value="meta" /> 
+                </div> 
+                <div class="container attribute" id="id35851383"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851386" value="http-equiv" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851388" value="Content-Type" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851383">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container attribute" id="id35851390"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851393" value="content" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851396" value="text/html;charset=utf-8" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851390">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851377">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851399"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851402" value="meta" /> 
+                </div> 
+                <div class="container attribute" id="id35851404"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851407" value="http-equiv" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851410" value="X-UA-Compatible" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851404">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container attribute" id="id35851412"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851415" value="content" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851417" value="IE=100" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851412">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851399">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851421"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851424" value="link" /> 
+                </div> 
+                <div class="container attribute" id="id35851426"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851429" value="rel" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851431" value="stylesheet" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851426">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container attribute" id="id35851433"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851436" value="type" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851439" value="text/css" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851433">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container attribute" id="id35851441"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851444" value="href" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851446" value="xsledit.css" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851441">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851421">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851371">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851451"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851454" value="body" /> 
+              </div> 
+              <div class="container element" id="id35851457"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851460" value="xsl:apply-templates" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851457">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851451">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851358">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851344">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container comment" id="id35851467"> 
+          <div class="value"> 
+            <input class="textinput" type="text" name="id35851470" value="Test comment" /> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851467">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851474"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851477" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851479"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851482" value="name" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851484" value="test_template" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851479">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851488"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851491" value="xsl:text" /> 
+            </div> 
+            <div class="container text" id="id35851493"> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851496" value="Test text" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851493">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851488">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851474">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851500"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851503" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851506"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851509" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851511" value="*" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851506">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851514"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851518" value="div" /> 
+            </div> 
+            <div class="container attribute" id="id35851520"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851523" value="class" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851525" value="{local-name()}" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851520">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851528"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851531" value="div" /> 
+              </div> 
+              <div class="container attribute" id="id35851534"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851537" value="class" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851539" value="label" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851534">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851542"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851545" value="xsl:value-of" /> 
+                </div> 
+                <div class="container attribute" id="id35851548"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851551" value="select" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851553" value="name()" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851548">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851542">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851528">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851557"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851560" value="xsl:if" /> 
+              </div> 
+              <div class="container attribute" id="id35851563"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851566" value="test" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851568" value="@*" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851563">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851571"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851574" value="div" /> 
+                </div> 
+                <div class="container attribute" id="id35851576"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851579" value="class" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851582" value="attributes" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851576">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container element" id="id35851585"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851588" value="xsl:apply-templates" /> 
+                  </div> 
+                  <div class="container attribute" id="id35851591"> 
+                    <div class="label"> 
+                      <input class="textinput" type="text" name="id35851594" value="select" /> 
+                    </div> 
+                    <div class="value"> 
+                      <input class="textinput" type="text" name="id35851596" value="@*" /> 
+                    </div> 
+                    <div class="controls"> 
+                      <span class="delete" id="delete-id35851591">DEL</span> 
+                    </div> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851585">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851571">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851557">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851601"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851604" value="div" /> 
+              </div> 
+              <div class="container attribute" id="id35851607"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851610" value="class" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851612" value="elements" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851607">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851615"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851618" value="xsl:apply-templates" /> 
+                </div> 
+                <div class="container attribute" id="id35851621"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851624" value="select" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851626" value="node()" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851621">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851615">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851629"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851632" value="xsl:apply-templates" /> 
+                </div> 
+                <div class="container attribute" id="id35851635"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851638" value="select" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851640" value="self::*[not(node()) or text()='']" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851635">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="container attribute" id="id35851643"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851646" value="mode" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851648" value="html-empty" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851643">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851629">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851601">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851514">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851500">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851655"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851658" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851660"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851663" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851665" value="text()[normalize-space(.)!='']" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851660">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851669"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851672" value="div" /> 
+            </div> 
+            <div class="container attribute" id="id35851674"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851677" value="class" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851679" value="text-node" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851674">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851683"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851686" value="xsl:value-of" /> 
+              </div> 
+              <div class="container attribute" id="id35851688"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851691" value="select" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851693" value="." /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851688">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851683">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851669">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851655">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851699"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851702" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851704"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851707" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851710" value="comment()" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851704">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851713"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851716" value="div" /> 
+            </div> 
+            <div class="container attribute" id="id35851718"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851721" value="class" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851723" value="comment-node" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851718">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851727"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851730" value="xsl:value-of" /> 
+              </div> 
+              <div class="container attribute" id="id35851732"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851735" value="select" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851737" value="." /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851732">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851727">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851713">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851699">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851743"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851746" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851748"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851751" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851753" value="@*" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851748">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851757"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851760" value="div" /> 
+            </div> 
+            <div class="container attribute" id="id35851762"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851765" value="class" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851767" value="{local-name()}" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851762">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851770"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851774" value="span" /> 
+              </div> 
+              <div class="container attribute" id="id35851776"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851779" value="class" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851781" value="label" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851776">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851784"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851788" value="xsl:value-of" /> 
+                </div> 
+                <div class="container attribute" id="id35851790"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851793" value="select" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851795" value="name()" /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851790">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851784">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851770">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851800"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851803" value="span" /> 
+              </div> 
+              <div class="container attribute" id="id35851805"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851808" value="class" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851810" value="delimiter" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851805">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container text" id="id35851812"> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851816" value=":" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851812">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851800">DEL</span> 
+              </div> 
+            </div> 
+            <div class="container element" id="id35851819"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851822" value="span" /> 
+              </div> 
+              <div class="container attribute" id="id35851824"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851827" value="class" /> 
+                </div> 
+                <div class="value"> 
+                  <input class="textinput" type="text" name="id35851829" value="value" /> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851824">DEL</span> 
+                </div> 
+              </div> 
+              <div class="container element" id="id35851833"> 
+                <div class="label"> 
+                  <input class="textinput" type="text" name="id35851836" value="xsl:value-of" /> 
+                </div> 
+                <div class="container attribute" id="id35851838"> 
+                  <div class="label"> 
+                    <input class="textinput" type="text" name="id35851841" value="select" /> 
+                  </div> 
+                  <div class="value"> 
+                    <input class="textinput" type="text" name="id35851843" value="." /> 
+                  </div> 
+                  <div class="controls"> 
+                    <span class="delete" id="delete-id35851838">DEL</span> 
+                  </div> 
+                </div> 
+                <div class="controls"> 
+                  <span class="delete" id="delete-id35851833">DEL</span> 
+                </div> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851819">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851757">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851743">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851849"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851852" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851854"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851857" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851859" value="*" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851854">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851861"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851864" value="mode" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851867" value="html-empty" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851861">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851849">DEL</span> 
+          </div> 
+        </div> 
+        <div class="container element" id="id35851870"> 
+          <div class="label"> 
+            <input class="textinput" type="text" name="id35851873" value="xsl:template" /> 
+          </div> 
+          <div class="container attribute" id="id35851875"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851878" value="match" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851881" value="xsl:template" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851875">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container attribute" id="id35851883"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851886" value="mode" /> 
+            </div> 
+            <div class="value"> 
+              <input class="textinput" type="text" name="id35851888" value="html-empty" /> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851883">DEL</span> 
+            </div> 
+          </div> 
+          <div class="container element" id="id35851892"> 
+            <div class="label"> 
+              <input class="textinput" type="text" name="id35851895" value="div" /> 
+            </div> 
+            <div class="container attribute" id="id35851897"> 
+              <div class="label"> 
+                <input class="textinput" type="text" name="id35851900" value="class" /> 
+              </div> 
+              <div class="value"> 
+                <input class="textinput" type="text" name="id35851902" value="empty" /> 
+              </div> 
+              <div class="controls"> 
+                <span class="delete" id="delete-id35851897">DEL</span> 
+              </div> 
+            </div> 
+            <div class="controls"> 
+              <span class="delete" id="delete-id35851892">DEL</span> 
+            </div> 
+          </div> 
+          <div class="controls"> 
+            <span class="delete" id="delete-id35851870">DEL</span> 
+          </div> 
+        </div> 
+        <div class="controls"> 
+          <span class="delete" id="delete-id35851261">DEL</span> 
+        </div> 
+      </div> 
+    </div> 
+    <div class="buttons"> 
+      <form action="?" method="post" id="submitform"> 
+        <input class="button submit" type="submit" value="Submit" /> 
+      </form> 
+      <form action="?" method="post"> 
+        <input name="undo" value="yes" type="hidden" /> 
+        <input class="button undo" type="submit" value="Undo" /> 
+      </form> 
+      <form action="?" method="post"> 
+        <input name="reload" value="yes" type="hidden" /> 
+        <input class="button reload" type="submit" value="Reload" /> 
+      </form> 
+      <form action="?" method="get"> 
+        <input name="save" value="yes" type="hidden" /> 
+        <input class="button save" type="submit" value="Save" /> 
+      </form> 
+      <div> 
+        <input class="button test" type="submit" id="testbutton" value="TEST" /> 
+      </div> 
+    </div>
+</sol>
